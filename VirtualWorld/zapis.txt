@@ -1,0 +1,44 @@
+20 20 21 0 false
+0 0 5 10 5 true false 0
+Czlowiek 0 0 5 0
+
+Zolw 19 19 2 0
+
+CyberOwca 0 16 11 0
+
+Zolw 8 1 2 0
+
+Zolw 3 1 2 0
+
+Lis 15 9 3 0
+
+CyberOwca 6 14 11 0
+
+Lis 6 18 3 0
+
+CyberOwca 13 0 11 0
+
+Zolw 18 17 2 0
+
+Zolw 3 5 2 0
+
+Zolw 12 17 2 0
+
+Owca 14 2 4 0
+
+Owca 19 1 4 0
+
+Wilk 16 1 9 0
+
+Owca 1 11 4 0
+
+Guarana 1 7 0 0
+
+Trawa 0 18 0 0
+
+Guarana 4 5 0 0
+
+Mlecz 18 0 0 0
+
+Jagody 8 13 99 0
+

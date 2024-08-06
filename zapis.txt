@@ -1,0 +1,40 @@
+20 20 19 4 false
+2 2 5 10 5 true false 4
+Lis 16 6 3 4
+
+Lis 4 16 3 4
+
+Wilk 10 7 9 4
+
+Czlowiek 2 2 5 4
+
+Owca 19 8 4 4
+
+Antylopa 18 8 4 4
+
+CyberOwca 14 9 11 4
+
+Owca 13 1 4 4
+
+Antylopa 3 15 4 4
+
+Antylopa 8 11 4 4
+
+Owca 0 19 4 4
+
+Zolw 11 14 2 4
+
+Zolw 10 3 2 4
+
+Zolw 13 17 2 4
+
+Zolw 16 2 2 4
+
+Guarana 16 17 0 4
+
+Guarana 12 15 0 4
+
+Trawa 14 8 0 4
+
+BarszczS 7 14 10 4
+
